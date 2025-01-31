@@ -1,4 +1,5 @@
 const mineflayer = require('mineflayer');
+const keep_alive = require('./keep_alive.js')
 
 const config = {
   host: 'mc.mingxee.xyz', // Change this to your Minecraft server IP
